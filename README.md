@@ -1,6 +1,6 @@
-# 🏦 Console-Based Banking System (Java)
+#  Console-Based Banking System (Java)
 
-## 📌 Project Overview
+##  Project Overview
 
 This is a simple **console-based banking application** developed using Java.
 It simulates basic banking operations like account creation, login, deposit, withdrawal, and transaction history.
@@ -9,7 +9,7 @@ This project is built to understand **core programming concepts** and **basic sy
 
 ---
 
-## 🚀 Features
+##  Features
 
 * ✅ Create Bank Account
 * 🔐 Secure Login using Account Number & PIN
@@ -20,7 +20,7 @@ This project is built to understand **core programming concepts** and **basic sy
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Java
 * OOP (Object-Oriented Programming)
@@ -29,7 +29,7 @@ This project is built to understand **core programming concepts** and **basic sy
 
 ---
 
-## 🧠 Concepts Covered
+##  Concepts Covered
 
 * Classes & Objects
 * Encapsulation
@@ -41,7 +41,7 @@ This project is built to understand **core programming concepts** and **basic sy
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 BankApp (Main Class)
@@ -53,7 +53,7 @@ Account (Data Model)
 
 ---
 
-## 🔄 Working Flow
+##  Working Flow
 
 1. User creates an account (gets unique Account Number)
 2. User logs in using Account Number + PIN
@@ -67,7 +67,7 @@ Account (Data Model)
 
 ---
 
-## 💡 Key Highlights
+##  Key Highlights
 
 * Account numbers are auto-generated using a static counter
 * HashMap is used to simulate a database
@@ -76,7 +76,7 @@ Account (Data Model)
 
 ---
 
-## 📷 Sample Output
+##  Sample Output
 
 ```
 1.Create 2.Login 3.Exit
@@ -105,7 +105,7 @@ Withdrawn: 300
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Add money transfer between accounts
 * Store data using files or database
@@ -115,7 +115,7 @@ Withdrawn: 300
 
 ---
 
-## ⭐ Conclusion
+##  Conclusion
 
 This project demonstrates how real-world banking systems can be simplified into basic programming logic.
 It helps in understanding how **input → processing → output flow works in real applications**.
